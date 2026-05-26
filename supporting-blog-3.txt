@@ -1,3 +1,24 @@
+PROMPT:
+
+Generate an SEO blog for GlowUp Beauty Salon in Mumbai.
+
+Topic:
+“Why Regular Self-Care Salon Visits Improve Confidence”
+
+Include:
+- confidence & self-care connection
+- stress relief benefits
+- emotional wellness
+- beauty routines
+- self-care culture
+- CTA section
+
+Tone:
+Warm, emotional, professional.
+
+--------------------------------------------------
+
+OUTPUT:
 # Why Regular Self-Care Salon Visits Improve Confidence
 
 In today’s fast-moving world, self-care is no longer just a luxury — it has become an important part of maintaining emotional well-being, confidence, and balance. Between work, studies, social responsibilities, and everyday stress, many women forget to pause and take care of themselves.
