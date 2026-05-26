@@ -1,3 +1,24 @@
+PROMPT:
+
+Generate an SEO blog for GlowUp Beauty Salon in Mumbai.
+
+Topic:
+“How To Choose the Right Bridal Makeup Artist in Mumbai”
+
+Include:
+- qualities of a professional bridal artist
+- bridal makeup tips
+- common mistakes brides make
+- makeup trial importance
+- skincare preparation
+- CTA section
+
+Tone:
+Elegant, professional, informative.
+
+--------------------------------------------------
+
+OUTPUT:
 # How To Choose the Right Bridal Makeup Artist in Mumbai
 
 Your wedding day is one of the most emotional and unforgettable moments of your life. From your bridal outfit to your hairstyle and makeup, every detail contributes to how you feel and how confidently you step into your new journey.
