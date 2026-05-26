@@ -1,3 +1,24 @@
+PROMPT:
+
+Generate an SEO blog for GlowUp Beauty Salon in Mumbai.
+
+Topic:
+“Best Hair Spa Treatments for Frizzy Hair in Mumbai”
+
+Include:
+- causes of frizzy hair
+- Mumbai weather impact
+- benefits of hair spa
+- professional salon solutions
+- haircare tips
+- CTA section
+
+Tone:
+Helpful, professional, easy to read.
+
+--------------------------------------------------
+
+OUTPUT:
 # Best Hair Spa Treatments for Frizzy Hair in Mumbai
 
 Frizzy hair is one of the most common beauty concerns for women living in Mumbai. From constant humidity and pollution to heat styling and stress, daily environmental damage can leave hair dry, rough, and difficult to manage.
