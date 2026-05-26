@@ -1,3 +1,29 @@
+PROMPT:
+
+Generate a complete SEO content cluster strategy for GlowUp Beauty Salon in Mumbai.
+
+Main Pillar Blog:
+“Best Beauty Salon in Mumbai – Haircare, Bridal Makeup & Self-Care Guide”
+
+Supporting Blogs:
+1. Best Hair Spa Treatments for Frizzy Hair in Mumbai
+2. How To Choose the Right Bridal Makeup Artist in Mumbai
+3. Why Regular Self-Care Salon Visits Improve Confidence
+
+Include:
+- content cluster explanation
+- internal linking strategy
+- keyword relationships
+- SEO purpose of each blog
+- local SEO benefits
+- ranking strategy
+
+Tone:
+Professional, strategic, agency-style.
+
+--------------------------------------------------
+
+OUTPUT:
 # SEO Content Cluster Strategy for GlowUp Beauty Salon in Mumbai
 
 ## Objective
