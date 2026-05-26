@@ -1,3 +1,21 @@
+PROMPT:
+
+Generate a complete local SEO keyword strategy for GlowUp Beauty Salon in Mumbai.
+
+Include:
+- primary keywords
+- secondary keywords
+- local SEO keywords
+- keyword intent breakdown
+- blog topic suggestions
+- local SEO optimization tips
+
+Focus on:
+Haircare, bridal makeup, self-care, and beauty services.
+
+--------------------------------------------------
+
+OUTPUT:
 # Local SEO Keyword Strategy for GlowUp Beauty Salon in Mumbai
 
 This strategy is designed to help **GlowUp Beauty Salon** rank higher on Google for local beauty searches, attract nearby customers, and convert Instagram/Google visitors into appointments.
