@@ -1,3 +1,23 @@
+PROMPT:
+
+Generate a long-form SEO pillar blog for GlowUp Beauty Salon in Mumbai.
+
+Blog Title:
+“Best Beauty Salon in Mumbai – Haircare, Bridal Makeup & Self-Care Guide”
+
+Include:
+- H1 to H3 structure
+- SEO-friendly sections
+- local SEO references
+- helpful beauty information
+- strong CTA ending
+
+Tone:
+Professional, feminine, trustworthy, informative.
+
+--------------------------------------------------
+
+OUTPUT:
 # Best Beauty Salon in Mumbai – Haircare, Bridal Makeup & Self-Care Guide
 
 In today’s fast-moving lifestyle, self-care is no longer a luxury — it’s a necessity. Whether it’s maintaining healthy hair, preparing for your wedding day, or simply taking time for yourself after a stressful week, choosing the right beauty salon can completely transform your confidence and overall well-being.
